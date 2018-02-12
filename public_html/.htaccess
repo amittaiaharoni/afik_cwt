@@ -1,0 +1,7 @@
+RewriteEngine on
+
+DirectoryIndex index.php
+
+RewriteCond %{HTTP_HOST} ^tosee\.co\.il$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.tosee\.co\.il$
+RewriteRule ^admin$ "http\:\/\/www\.tosee\.co\.il\/index\.php\?page\=admin" [R=301,L]

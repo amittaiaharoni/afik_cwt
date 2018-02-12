@@ -1,0 +1,26 @@
+Return-Path: <cwt@cwt.org.il>
+Delivered-To: cwt@afik.afik11.com
+Received: from afik.afik11.com
+	by afik.afik11.com (Dovecot) with LMTP id OQwJHHiFRllMpg0A/Wmhrg
+	for <cwt@afik.afik11.com>; Sun, 18 Jun 2017 16:51:52 +0300
+Return-path: <cwt@cwt.org.il>
+Envelope-to: hanan@cwt.org.il
+Delivery-date: Sun, 18 Jun 2017 16:51:52 +0300
+Received: from [::1] (port=45499 helo=afik11.com)
+	by afik.afik11.com with esmtpa (Exim 4.89)
+	(envelope-from <cwt@cwt.org.il>)
+	id 1dMacK-003kmy-D9
+	for hanan@cwt.org.il; Sun, 18 Jun 2017 16:51:52 +0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+Content-Transfer-Encoding: 7bit
+Date: Sun, 18 Jun 2017 16:51:52 +0300
+From: cwt <cwt@cwt.org.il>
+To: hanan@cwt.org.il
+Subject: test
+Message-ID: <71a93f350b4b5270a5706fecf9abaafe@cwt.org.il>
+X-Sender: cwt@cwt.org.il
+User-Agent: Roundcube Webmail/1.2.4
+
+ From WebMail of CWT.org.il

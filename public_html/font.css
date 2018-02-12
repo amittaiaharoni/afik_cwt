@@ -1,0 +1,38 @@
+@font-face {
+  font-family: 'Open Sans Hebrew';
+  src: url('fonts/opensanshebrew-bold-webfont.eot'); /* IE9 Compat Modes */
+  src: url('fonts/opensanshebrew-bold-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/opensanshebrew-bold-webfont.woff') format('woff'), /* Modern Browsers */
+       url('fonts/opensanshebrew-bold-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('fonts/opensanshebrew-bold-webfont.svg#8b4b25a9e6dee2304c08fefb363a9190') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  700;
+}
+
+
+
+@font-face {
+  font-family: 'Open Sans Hebrew';
+  src: url('fonts/opensanshebrew-extrabold-webfont.eot'); /* IE9 Compat Modes */
+  src: url('fonts/opensanshebrew-extrabold-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/opensanshebrew-extrabold-webfont.woff') format('woff'), /* Modern Browsers */
+       url('fonts/opensanshebrew-extrabold-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('fonts/opensanshebrew-extrabold-webfont.svg#f7e80113069d64680d94be62885b159d') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  900;
+}
+
+@font-face {
+  font-family: 'Open Sans Hebrew';
+  src: url('fonts/opensanshebrew-regular-webfont.eot'); /* IE9 Compat Modes */
+  src: url('fonts/opensanshebrew-regular-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/opensanshebrew-regular-webfont.woff') format('woff'), /* Modern Browsers */
+       url('fonts/opensanshebrew-regular-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('fonts/opensanshebrew-regular-webfont.svg#265e1bf8eadfa92b8d955acd546bd2c3') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+

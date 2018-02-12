@@ -1,0 +1,103 @@
+Return-Path: <>
+Delivered-To: cwt@afik.afik11.com
+Received: from afik.afik11.com
+	by afik.afik11.com (Dovecot) with LMTP id yaADNIkROFlI3gEA/Wmhrg
+	for <cwt@afik.afik11.com>; Wed, 07 Jun 2017 17:45:29 +0300
+Return-path: <>
+Envelope-to: cwt@afik.afik11.com
+Delivery-date: Wed, 07 Jun 2017 17:45:29 +0300
+Received: from mailnull by afik.afik11.com with local (Exim 4.89)
+	id 1dIcDB-000WH5-Qi
+	for cwt@afik.afik11.com; Wed, 07 Jun 2017 17:45:29 +0300
+X-Failed-Recipients: asd@afik.afik11.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@afik.afik11.com>
+To: cwt@afik.afik11.com
+Content-Type: multipart/report; report-type=delivery-status; boundary=1496846729-eximdsn-359207728
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1dIcDB-000WH5-Qi@afik.afik11.com>
+Date: Wed, 07 Jun 2017 17:45:29 +0300
+
+--1496846729-eximdsn-359207728
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  asd@afik.afik11.com
+    Unrouteable address
+
+--1496846729-eximdsn-359207728
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; afik.afik11.com
+
+Action: failed
+Final-Recipient: rfc822;asd@afik.afik11.com
+Status: 5.0.0
+
+--1496846729-eximdsn-359207728
+Content-type: message/rfc822
+
+Return-path: <cwt@afik.afik11.com>
+Received: from cwt by afik.afik11.com with local (Exim 4.89)
+	(envelope-from <cwt@afik.afik11.com>)
+	id 1dIcDA-000WGp-NR; Wed, 07 Jun 2017 17:45:28 +0300
+To: asd@afik.afik11.com,info@cwt.org.il,office.afik@gmail.com
+Subject: טופס צור קשר מאתר Chronic Wound Treatment
+MIME-Version: 1.0
+Content-type: text/html; charset=utf8
+From: Chronic Wound Treatment <info@cwt.org.il>
+Message-Id: <E1dIcDA-000WGp-NR@afik.afik11.com>
+Date: Wed, 07 Jun 2017 17:45:28 +0300
+
+
+				<html>
+				<head>
+					<META HTTP-EQUIV='CONTENT-TYPE' CONTENT='TEXT/HTML; CHARSET=UTF-8'>
+					<title>הודעה מצור קשר אתר Chronic Wound Treatment</title>
+					<style type='text/css'>
+					.content-block{
+						background:#333;
+						color: white;
+						padding: 15px;
+					}
+					.content-block h2{
+						color: #99cc67;
+						text-decoration:underline;
+						padding:0px;
+						margin:0px;
+						margin-bottom:15px;
+					}
+					.content-block a:link,.content-block a:visited{
+						color: #99cc67;
+					}
+					.content-block a:hover, .content-block a:active{
+						color: white;
+					}
+					</style>
+				</head>
+					<body dir='rtl' align='center'>
+					<table border='0' cellspacing='0' cellpadding='0' class='content-block'>
+						<thead>
+							<th colspan='2'>
+								</h2>ההודעה הבאה התקבלה מטופס צור קשר מאתר Chronic Wound Treatment:<h2>
+							</th>
+						</thead>
+						<tbody>
+							<tr>
+								<td>תודה שנרשמת לניוזלטר שלנו</td>
+							</tr>
+							<tr>
+								<td>דואל:</td>
+								<td>asd</td>
+							</tr>
+						</tbody>
+					</table>
+					</body>
+				</html>
+
+--1496846729-eximdsn-359207728--

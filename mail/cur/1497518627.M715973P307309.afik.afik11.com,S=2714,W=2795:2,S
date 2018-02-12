@@ -1,0 +1,81 @@
+Return-Path: <>
+Delivered-To: cwt@afik.afik11.com
+Received: from afik.afik11.com
+	by afik.afik11.com (Dovecot) with LMTP id cVNxKiNSQlltsAQA/Wmhrg
+	for <cwt@afik.afik11.com>; Thu, 15 Jun 2017 12:23:47 +0300
+Return-path: <>
+Envelope-to: cwt@afik.afik11.com
+Delivery-date: Thu, 15 Jun 2017 12:23:47 +0300
+Received: from mailnull by afik.afik11.com with local (Exim 4.89)
+	id 1dLR0F-001IUA-KX
+	for cwt@afik.afik11.com; Thu, 15 Jun 2017 12:23:47 +0300
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@afik.afik11.com>
+To: cwt@afik.afik11.com
+Subject: Mail failure - malformed recipient address
+Message-Id: <E1dLR0F-001IUA-KX@afik.afik11.com>
+Date: Thu, 15 Jun 2017 12:23:47 +0300
+
+A message that you sent contained one or more recipient addresses that were
+incorrectly constructed:
+
+  @-@_@_@_@_@_@@,office.afik@gmail.com,hanan@cwt.org.il,prog.afik@gmail.com,hanan.hovav@gmail.com: domain missing or malformed
+
+This address has been ignored. There were no other addresses in your
+message, and so no attempt at delivery was possible.
+
+------ This is a copy of your message, including all the headers. ------
+
+To: @-@_@_@_@_@_@@,office.afik@gmail.com,hanan@cwt.org.il,prog.afik@gmail.com,hanan.hovav@gmail.com
+Subject: טופס צור קשר מאתר Chronic Wound Treatment
+MIME-Version: 1.0
+Content-type: text/html; charset=utf8
+From: Chronic Wound Treatment <office.afik@gmail.com,hanan@cwt.org.il,prog.afik@gmail.com,hanan.hovav@gmail.com>
+Message-Id: <E1dLR0F-001IU7-KF@afik.afik11.com>
+Date: Thu, 15 Jun 2017 12:23:47 +0300
+
+
+				<html>
+				<head>
+					<META HTTP-EQUIV='CONTENT-TYPE' CONTENT='TEXT/HTML; CHARSET=UTF-8'>
+					<title>הודעה מצור קשר אתר Chronic Wound Treatment</title>
+					<style type='text/css'>
+					.content-block{
+						background:#333;
+						color: white;
+						padding: 15px;
+					}
+					.content-block h2{
+						color: #99cc67;
+						text-decoration:underline;
+						padding:0px;
+						margin:0px;
+						margin-bottom:15px;
+					}
+					.content-block a:link,.content-block a:visited{
+						color: #99cc67;
+					}
+					.content-block a:hover, .content-block a:active{
+						color: white;
+					}
+					</style>
+				</head>
+					<body dir='rtl' align='center'>
+					<table border='0' cellspacing='0' cellpadding='0' class='content-block'>
+						<thead>
+							<th colspan='2'>
+								</h2>ההודעה הבאה התקבלה מטופס צור קשר מאתר Chronic Wound Treatment:<h2>
+							</th>
+						</thead>
+						<tbody>
+							<tr>
+								<td>תודה שנרשמת לניוזלטר שלנו</td>
+							</tr>
+							<tr>
+								<td>דואל:</td>
+								<td>@-@_@_@_@_@_@@</td>
+							</tr>
+						</tbody>
+					</table>
+					</body>
+				</html>

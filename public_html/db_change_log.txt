@@ -1,0 +1,41 @@
+details -> products
+	
+	convert all to utf8-general-ci
+	all translatable fields get "_trans_id" sufix to thair name and INT data type, for example : "name" = "name_trans_id" (INT)
+	
+	cat_number 		- removed
+	id_itemcat 		- removed
+	id_subcat 		- removed
+	id_subcat2 		- removed
+	id_itemcat2 	- removed
+	weight 			- display_order
+	path2 			- image2
+	path3 			- image3
+	mivza 			- is_sale
+	dol2 			- price2
+	nis2 			- price3
+	price_dolars 	- removed
+	name_eng		- removed
+	desc_eng		- removed
+	text_eng		- removed
+	first			- show_on_main
+	id_product_flag - product_flag_id
+	deltime			- delivery_time
+	warrantyeng		- removed
+	sizeeng			- removed
+	titlefile1		- attch_file_name1
+	titlefile2		- attch_file_name2
+	attch_file_name3- added
+	attch_file_path1- added
+	attch_file_path2- added
+	attch_file_path3- added
+	firstc			- removed
+	salemonth		- removed
+	salecatmonth	- removed
+	jump_at_register- promote_in_cart
+	promote_in_cat	- added
+
+
+  google analitics old user
+
+  /*ga('create', 'UA-65387065-1', 'auto');*/

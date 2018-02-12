@@ -1,0 +1,69 @@
+Return-Path: <cwt@afik.afik11.com>
+Delivered-To: cwt@afik.afik11.com
+Received: from afik.afik11.com
+	by afik.afik11.com (Dovecot) with LMTP id 2wNqMnRbRlmmVQkA/Wmhrg
+	for <cwt@afik.afik11.com>; Sun, 18 Jun 2017 13:52:36 +0300
+Return-path: <cwt@afik.afik11.com>
+Envelope-to: hanan@cwt.org.il
+Delivery-date: Sun, 18 Jun 2017 13:52:36 +0300
+Received: from cwt by afik.afik11.com with local (Exim 4.89)
+	(envelope-from <cwt@afik.afik11.com>)
+	id 1dMXoq-002Z8k-N5; Sun, 18 Jun 2017 13:52:36 +0300
+To: office.afik@gmail.com,hanan@cwt.org.il,prog.afik@gmail.com,hanan.hovav@gmail.com
+Subject: טופס צור קשר מאתר Chronic Wound Treatment
+MIME-Version: 1.0
+Content-type: text/html; charset=utf8
+From: Chronic Wound Treatment <office.afik@gmail.com,hanan@cwt.org.il,prog.afik@gmail.com,hanan.hovav@gmail.com>
+Message-Id: <E1dMXoq-002Z8k-N5@afik.afik11.com>
+Date: Sun, 18 Jun 2017 13:52:36 +0300
+
+
+			<html>
+			<head>
+				<META HTTP-EQUIV='CONTENT-TYPE' CONTENT='TEXT/HTML; CHARSET=UTF-8'>
+				<title>הודעה מצור קשר אתר Chronic Wound Treatment</title>
+				<style type='text/css'>
+				.content-block{
+					background:#333;
+					color: white;
+					padding: 15px;
+				}
+				.content-block h2{
+					color: #99cc67;
+					text-decoration:underline;
+					padding:0px;
+					margin:0px;
+					margin-bottom:15px;
+				}
+				.content-block a:link,.content-block a:visited{
+					color: #99cc67;
+				}
+				.content-block a:hover, .content-block a:active{
+					color: white;
+				}
+				</style>
+			</head>
+				<body dir='rtl' align='center'>
+				<table border='0' cellspacing='0' cellpadding='0' class='content-block'>
+					<thead>
+						<th colspan='2'>
+							</h2>ההודעה הבאה התקבלה מטופס צור קשר מאתר Chronic Wound Treatment:<h2>
+						</th>
+					</thead>
+					<tbody>
+						<tr>
+							<td>שם:</td>
+							<td>test contuct us 18.06.2017</td>
+						</tr>
+						<tr>
+							<td>דואל:</td>
+							<td>office.afik@gmail.com</td>
+						</tr>
+						<tr>
+							<td>תוכן הפנייה:</td>
+							<td>test text text text text</td>
+						</tr>
+					</tbody>
+				</table>
+				</body>
+			</html>

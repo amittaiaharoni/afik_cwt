@@ -1,0 +1,113 @@
+Return-Path: <>
+Delivered-To: cwt@afik.afik11.com
+Received: from afik.afik11.com
+	by afik.afik11.com with LMTP id qFCgDKU6UlpfuwIA/Wmhrg
+	for <cwt@afik.afik11.com>; Sun, 07 Jan 2018 17:20:05 +0200
+Return-path: <>
+Envelope-to: cwt@afik.afik11.com
+Delivery-date: Sun, 07 Jan 2018 17:20:05 +0200
+Received: from mailnull by afik.afik11.com with local (Exim 4.89_1)
+	id 1eYCk1-000kww-53
+	for cwt@afik.afik11.com; Sun, 07 Jan 2018 17:20:05 +0200
+X-Failed-Recipients: TEST@GMAIL.COM
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@afik.afik11.com>
+To: cwt@afik.afik11.com
+Content-Type: multipart/report; report-type=delivery-status; boundary=1515338405-eximdsn-1969791651
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1eYCk1-000kww-53@afik.afik11.com>
+Date: Sun, 07 Jan 2018 17:20:05 +0200
+
+--1515338405-eximdsn-1969791651
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  TEST@GMAIL.COM
+    host gmail-smtp-in.l.google.com [66.102.1.27]
+    SMTP error from remote mail server after RCPT TO:<TEST@GMAIL.COM>:
+    550-5.1.1 The email account that you tried to reach does not exist. Please try
+    550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at
+    550 5.1.1  https://support.google.com/mail/?p=NoSuchUser 36si7679313wre.103 - gsmtp
+
+--1515338405-eximdsn-1969791651
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; afik.afik11.com
+
+Action: failed
+Final-Recipient: rfc822;TEST@GMAIL.COM
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.1.1 The email account that you tried to reach does not exist. Please try
+ 550-5.1.1 double-checking the recipient's email address for typos or
+ 550-5.1.1 unnecessary spaces. Learn more at
+ 550 5.1.1  https://support.google.com/mail/?p=NoSuchUser 36si7679313wre.103 - gsmtp
+
+--1515338405-eximdsn-1969791651
+Content-type: message/rfc822
+
+Return-path: <cwt@afik.afik11.com>
+Received: from cwt by afik.afik11.com with local (Exim 4.89_1)
+	(envelope-from <cwt@afik.afik11.com>)
+	id 1eYCjx-000kfs-7b; Sun, 07 Jan 2018 17:20:01 +0200
+To: TEST@GMAIL.COM,irit@blogabout.co.il,office.afik@gmail.com,hanan@cwt.org.il,prog.afik@gmail.com,hanan.hovav@gmail.com
+Subject: טופס צור קשר מאתר Chronic Wound Treatment
+MIME-Version: 1.0
+Content-type: text/html; charset=utf8
+From: Chronic Wound Treatment <office.afik@gmail.com,hanan@cwt.org.il,prog.afik@gmail.com,hanan.hovav@gmail.com>
+Message-Id: <E1eYCjx-000kfs-7b@afik.afik11.com>
+Date: Sun, 07 Jan 2018 17:20:01 +0200
+
+
+				<html>
+				<head>
+					<META HTTP-EQUIV='CONTENT-TYPE' CONTENT='TEXT/HTML; CHARSET=UTF-8'>
+					<title>הודעה מצור קשר אתר Chronic Wound Treatment</title>
+					<style type='text/css'>
+					.content-block{
+						background:#333;
+						color: white;
+						padding: 15px;
+					}
+					.content-block h2{
+						color: #99cc67;
+						text-decoration:underline;
+						padding:0px;
+						margin:0px;
+						margin-bottom:15px;
+					}
+					.content-block a:link,.content-block a:visited{
+						color: #99cc67;
+					}
+					.content-block a:hover, .content-block a:active{
+						color: white;
+					}
+					</style>
+				</head>
+					<body dir='rtl' align='center'>
+					<table border='0' cellspacing='0' cellpadding='0' class='content-block'>
+						<thead>
+							<th colspan='2'>
+								</h2>ההודעה הבאה התקבלה מטופס צור קשר מאתר Chronic Wound Treatment:<h2>
+							</th>
+						</thead>
+						<tbody>
+							<tr>
+								<td>תודה שנרשמת לניוזלטר שלנו</td>
+							</tr>
+							<tr>
+								<td>דואל:</td>
+								<td>TEST@GMAIL.COM</td>
+							</tr>
+						</tbody>
+					</table>
+					</body>
+				</html>
+
+--1515338405-eximdsn-1969791651--
