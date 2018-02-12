@@ -4,7 +4,12 @@ class contact{
 	public static function send_contact() {
 		global $data;
 		if (isset($_POST['send_contact'])){
-
+			if(isset($_POST['phone'])){
+				$msg_phone="<tr><td>טלפון:</td><td>".$_POST['name']."</td></tr>";
+			}
+			else{
+				$msg_phone="";
+			}
 			$msg="
 			<html>
 			<head>
@@ -47,6 +52,7 @@ class contact{
 							<td>דואל:</td>
 							<td>".$_POST['email']."</td>
 						</tr>
+						".$msg_phone."
 						<tr>
 							<td>תוכן הפנייה:</td>
 							<td>".$_POST['text']."</td>
