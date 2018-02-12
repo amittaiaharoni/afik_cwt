@@ -5,7 +5,7 @@ class contact{
 		global $data;
 		if (isset($_POST['send_contact'])){
 			if(isset($_POST['phone'])){
-				$msg_phone="<tr><td>טלפון:</td><td>".$_POST['name']."</td></tr>";
+				$msg_phone="<tr><td>טלפון:</td><td>".$_POST['phone']."</td></tr>";
 			}
 			else{
 				$msg_phone="";
@@ -63,11 +63,12 @@ class contact{
 			</html>";
 
 			$to = site_config::get_value("site_contact_email");
+
 			$subject = 'טופס צור קשר מאתר '.site_config::get_value("site_name");
 			$headers  = 'MIME-Version: 1.0' . "\r\n";
 			$headers .= 'Content-type: text/html; charset=utf8' . "\r\n";
 			$headers .= "From: ".site_config::get_value("site_name")." <".site_config::get_value("site_email_from")."> \r\n";
-			$mail_sent = mail($to,$subject,$msg,$headers);
+			$mail_sent = mail("aharoni.amittai@gmail.com",$subject,$msg,$headers);
 			$_SESSION['sent'] = 1;
 		}
 

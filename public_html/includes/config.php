@@ -18,7 +18,7 @@
 	site_config::add_default_value(	'site_base_url', 		"http://afik11.com/~cwt");
 	site_config::add_default_value(	'site_url', 			site_config::get_default_value("site_base_url").site_config::get_default_value("sub_folder"));
 	site_config::add_default_value(	'site_email_from', 		"info@cwt.org.il");		// used in emails going from the site to the user
-	site_config::add_default_value(	'site_contact_email',	"aharoni.amittai@gmail.com");	// used as contact email to display to the user
+	site_config::add_default_value(	'site_contact_email',	"dima.afik@gmail.com");	// used as contact email to display to the user
 	site_config::add_default_value(	'site_phone', 			"08-9287778");			// contact phone that will be displayed
 
 ///////////////////////////////////////////////////////////////////////////////////////////////
