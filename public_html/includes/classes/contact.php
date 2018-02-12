@@ -175,10 +175,7 @@ class contact{
 							<td>שם:</td>
 							<td>".$_POST['name']."</td>
 						</tr>
-						<tr>
-							<td>טלפון:</td>
-							<td>".$_POST['phone']."</td>
-						</tr>
+						".$msg_phone."
 						<tr>
 							<td>אימייל:</td>
 							<td>".$_POST['email']."</td>
